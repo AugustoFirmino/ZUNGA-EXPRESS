@@ -40,7 +40,7 @@ app.use(
         origin: [
             "http://localhost:5173",
             "http://localhost:5713",
-            "http://https://zunga-express-1.onrender.com",
+            "https://zunga-express-1.onrender.com",
         ],
 
         methods: [
