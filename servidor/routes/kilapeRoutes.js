@@ -15,7 +15,7 @@ import {
     aprovarKilape,
     recusarKilape,
     pagarKilape
-} from "../controllers/kilapesController.js";
+} from "../mycontrollers/kilapesController.js";
 
 const router = express.Router();
 

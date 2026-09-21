@@ -10,7 +10,7 @@ import {
     eliminarPedido,
     alterarPagamento,
     consultarPagamento
-} from "../controllers/pedidosController.js";
+} from "../mycontrollers/pedidosController.js";
 
 const router = express.Router();
 

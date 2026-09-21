@@ -9,7 +9,7 @@ import {
     actualizarDadosAdmin,
     actualizarSenhaAdmin,
     resetarSenhaAdmin
-} from "../controllers/adminController.js";
+} from "../mycontrollers/adminController.js";
 
 import {
     verificarTokenAdmin

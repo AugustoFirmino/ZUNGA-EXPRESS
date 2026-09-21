@@ -10,7 +10,7 @@ import {
     alterarSenhaGestor,
     eliminarGestor,
     loginGestor
-} from "../controllers/gestoresController.js";
+} from "../mycontrollers/gestoresController.js";
 
 const router = express.Router();
 

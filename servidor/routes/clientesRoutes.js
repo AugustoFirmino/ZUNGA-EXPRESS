@@ -8,7 +8,7 @@ import {
     atualizarCliente,
     eliminarCliente,
     meuPerfil
-} from "../controllers/clientesController.js";
+} from "../mycontrollers/clientesController.js";
 
 import upload from "../middleware/uploadCloudinary.js";
 

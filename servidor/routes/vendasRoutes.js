@@ -11,7 +11,7 @@ import {
     atualizarStatusVenda,
     vendasPorCliente,
     produtosMaisVendidos
-} from "../controllers/vendasController.js";
+} from "../mycontrollers/vendasController.js";
 
 const router = express.Router();
 

@@ -6,7 +6,7 @@ import {
     criarProduto,
     atualizarProduto,
     eliminarProduto,
-} from "../controllers/produtosController.js";
+} from "../mycontrollers/produtosController.js";
 
 import uploadCloudinary from "../middleware/uploadCloudinary.js";
 
