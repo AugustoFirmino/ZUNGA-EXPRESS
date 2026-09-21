@@ -1,1 +1,1 @@
-export const API_URL ="http://172.31.80.1:5000/api"
+export const API_URL ="https://zunga-express-1.onrender.com/api"
